@@ -28,10 +28,41 @@ I work well across teams, communicate tradeoffs clearly, and enjoy turning ambig
 - ShelfSense: https://github.com/SawyerAlston/ShelfSense
 
 ## Main skills
-[![My Skills](https://skillicons.dev/icons?i=gcp,docker,linux,bash,python,java,ts,nodejs,postgres,mysql,spring,vercel,opencv,pytorch,tensorflow,figma,flask,ai,idea,npm,powershell,prisma,prometheus,redhat,supabase,vercel,vim,visualstudio,vite,vscode)](https://skillicons.dev)
 
-## Tools I am learning and exploring 
-[![Tools](https://skillicons.dev/icons?i=kubernetes,sklearn,)](https://skillicons.dev)
+- GCP <img src="https://skillicons.dev/icons?i=gcp" height="22" />
+- Docker <img src="https://skillicons.dev/icons?i=docker" height="22" />
+- Linux <img src="https://skillicons.dev/icons?i=linux" height="22" />
+- Bash <img src="https://skillicons.dev/icons?i=bash" height="22" />
+- Python <img src="https://skillicons.dev/icons?i=python" height="22" />
+- Java <img src="https://skillicons.dev/icons?i=java" height="22" />
+- TypeScript <img src="https://skillicons.dev/icons?i=ts" height="22" />
+- Node.js <img src="https://skillicons.dev/icons?i=nodejs" height="22" />
+- PostgreSQL <img src="https://skillicons.dev/icons?i=postgres" height="22" />
+- MySQL <img src="https://skillicons.dev/icons?i=mysql" height="22" />
+- Spring <img src="https://skillicons.dev/icons?i=spring" height="22" />
+- Vercel <img src="https://skillicons.dev/icons?i=vercel" height="22" />
+- OpenCV <img src="https://skillicons.dev/icons?i=opencv" height="22" />
+- PyTorch <img src="https://skillicons.dev/icons?i=pytorch" height="22" />
+- TensorFlow <img src="https://skillicons.dev/icons?i=tensorflow" height="22" />
+- Figma <img src="https://skillicons.dev/icons?i=figma" height="22" />
+- Flask <img src="https://skillicons.dev/icons?i=flask" height="22" />
+- IntelliJ IDEA <img src="https://skillicons.dev/icons?i=idea" height="22" />
+- npm <img src="https://skillicons.dev/icons?i=npm" height="22" />
+- PowerShell <img src="https://skillicons.dev/icons?i=powershell" height="22" />
+- Prisma <img src="https://skillicons.dev/icons?i=prisma" height="22" />
+- Prometheus <img src="https://skillicons.dev/icons?i=prometheus" height="22" />
+- Red Hat <img src="https://skillicons.dev/icons?i=redhat" height="22" />
+- Supabase <img src="https://skillicons.dev/icons?i=supabase" height="22" />
+- Vim <img src="https://skillicons.dev/icons?i=vim" height="22" />
+- Visual Studio <img src="https://skillicons.dev/icons?i=visualstudio" height="22" />
+- Vite <img src="https://skillicons.dev/icons?i=vite" height="22" />
+- VS Code <img src="https://skillicons.dev/icons?i=vscode" height="22" />
+
+## Tools I am learning and exploring
+
+- Kubernetes <img src="https://skillicons.dev/icons?i=kubernetes" height="22" />
+- scikit-learn <img src="https://skillicons.dev/icons?i=sklearn" height="22" />
+
 
 ## Connect
 <div>
