@@ -17,8 +17,10 @@ Create one at https://www.terminalgif.com and save it at: ./assets/terminal.gif
 </div>
 
 ## Focus
-I build cloud ready systems with strong data foundations.
-My interests are cloud engineering, system architecture, AI/ML, and databases.
+I’m a junior at UT Dallas pursuing a B.S. in Computer Science and actively seeking SWE, cloud engineering, or AI/ML internships.
+I build cloud ready systems with strong data foundations, designed for reliability, performance, and scale.
+I’m focused on backend services and production systems that are observable and easy to operate, with strong interest in databases and applied AI/ML.
+I work well across teams, communicate tradeoffs clearly, and enjoy turning ambiguous problems into simple, shippable solutions.
 
 ## Featured repos
 - FaultLine: https://github.com/Jashan-tech/FaultLine
