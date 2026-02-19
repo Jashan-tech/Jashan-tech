@@ -10,10 +10,10 @@
 </a>
 
 <!-- Terminal GIF (optional)
-Create one at https://www.terminalgif.com and save it at: ./assets/about_jashan.gif
+Create one at https://www.terminalgif.com and save it at: ./assets/terminal.gif
 -->
 <div>
-  <img src="./assets/about_jashan.gif" alt="About Me Terminal GIF" />
+  <img src="./assets/terminal.gif" alt="About Me Terminal GIF" />
 </div>
 
 ## Focus
