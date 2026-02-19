@@ -26,6 +26,7 @@ I work well across teams, communicate tradeoffs clearly, and enjoy turning ambig
 - FaultLine: https://github.com/Jashan-tech/FaultLine
 - db2rest: https://github.com/9tigerio/db2rest
 - ShelfSense: https://github.com/SawyerAlston/ShelfSense
+- Samaritan Inn: https://github.com/UTDallasEPICS/the-samaritan-inn
 
 ## Main skills
 
