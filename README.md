@@ -28,8 +28,6 @@ My interests are cloud engineering, system architecture, AI/ML, and databases.
 ## Main skills
 [![My Skills](https://skillicons.dev/icons?i=gcp,docker,linux,bash,python,java,ts,nodejs,postgres,mysql,spring,vercel,opencv,pytorch,tensorflow,figma,flask,ai,idea,npm,powershell,prisma,prometheus,redhat,supabase,vercel,vim,visualstudio,vite,vscode)](https://skillicons.dev)
 
-
-
 ## Tools I am learning and exploring 
 [![Tools](https://skillicons.dev/icons?i=kubernetes,sklearn,)](https://skillicons.dev)
 
