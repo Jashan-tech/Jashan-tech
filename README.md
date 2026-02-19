@@ -22,7 +22,7 @@ My interests are cloud engineering, system architecture, AI/ML, and databases.
 
 ## Featured repos
 - FaultLine: https://github.com/Jashan-tech/FaultLine
-- db2rest: https://github.com/Jashan-tech/db2rest
+- db2rest: https://github.com/9tigerio/db2rest
 - ShelfSense: https://github.com/SawyerAlston/ShelfSense
 
 ## Main skills
