@@ -29,7 +29,7 @@ I work well across teams, communicate tradeoffs clearly, and enjoy turning ambig
 
 ## Main skills
 
-- GCP <img src="https://skillicons.dev/icons?i=gcp" height="22" />
+- GCP <img src="https://skillicons.dev/icons?i=gcp" height="35" />
 - Docker <img src="https://skillicons.dev/icons?i=docker" height="22" />
 - Linux <img src="https://skillicons.dev/icons?i=linux" height="22" />
 - Bash <img src="https://skillicons.dev/icons?i=bash" height="22" />
