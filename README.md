@@ -23,10 +23,40 @@ I’m focused on backend services and production systems that are observable and
 I work well across teams, communicate tradeoffs clearly, and enjoy turning ambiguous problems into simple, shippable solutions.
 
 ## Featured repos
-- FaultLine: https://github.com/Jashan-tech/FaultLine
-- db2rest: https://github.com/9tigerio/db2rest
-- ShelfSense: https://github.com/SawyerAlston/ShelfSense
-- Samaritan Inn: https://github.com/UTDallasEPICS/the-samaritan-inn
+
+### FaultLine
+- Open source observability stack that helps you see what is happening in your apps through metrics, logs, and traces
+- Uses OpenTelemetry to collect data and Grafana to visualize it in dashboards
+- Quick local setup so you can test monitoring on your own machine before deploying anywhere
+- Built to be beginner friendly so you can learn observability without a complicated setup
+
+Repo: https://github.com/Jashan-tech/FaultLine
+
+### db2rest
+- Instant no code REST DATA API that exposes secure endpoints on top of existing relational databases without ORMs or code generation
+- Designed as a secure database gateway for internal tools, partners, and integrations with consistent web APIs
+- Supports modern GenAI workflows by connecting structured data sources with LLM and vector store patterns
+- Broad database support across common engines including PostgreSQL, MySQL, SQL Server, Oracle, DB2, and more
+- Contribution: implemented one feature to add support for executing DB functions inside insert and query operations
+
+Repo: https://github.com/9tigerio/db2rest
+
+### ShelfSense
+- HackUTD project that reduces food waste by turning grocery receipts into a live inventory of expiring ingredients
+- Receipt scanning pipeline using OCR.space to extract items and auto populate a fridge and pantry
+- FastAPI backend with CRUD inventory management plus AI recipe recommendations powered by NVIDIA NIM (Llama 3.3 Nemotron) and API Ninjas fallbacks
+- SQLite database with SQLAlchemy tracking quantities, expiration dates, and automatic detection of items nearing expiration
+
+Repo: https://github.com/SawyerAlston/ShelfSense
+
+### Samaritan Inn Scheduling App
+- Web app for a nonprofit shelter enabling staff announcements plus resident scheduling and requests through an integrated calendar flow
+- Role based access control for residents vs staff including announcements management, class scheduling, and curfew extension requests
+- Built with Next.js and Node API routes with Prisma + SQLite for data persistence
+- Authentication via NextAuth with responsive UI styled using Tailwind CSS
+
+Repo: https://github.com/UTDallasEPICS/the-samaritan-inn
+
 
 ## Main skills
 
