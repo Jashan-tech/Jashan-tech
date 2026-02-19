@@ -26,10 +26,12 @@ My interests are cloud engineering, system architecture, AI/ML, and databases.
 - ShelfSense: https://github.com/SawyerAlston/ShelfSense
 
 ## Main skills
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,bash,python,java,ts,nodejs,postgres,mysql,redis,terraform,githubactions,prometheus,grafana,opencv,pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,docker,linux,bash,python,java,ts,nodejs,postgres,mysql,spring,vercel,opencv,pytorch,tensorflow,figma,flask,ai,idea,npm,powershell,primsa,prometheus,redhat,supabase,vercel,vim,visualstudio,vite,vscode)](https://skillicons.dev)
 
-## Tools I like for systems work
-[![Tools](https://skillicons.dev/icons?i=nginx,graphql,express,fastapi,postgres,mongodb,redis,git,github,postman)](https://skillicons.dev)
+
+
+## Tools I am learning and exploring 
+[![Tools](https://skillicons.dev/icons?i=kubernetes,sklearn,)](https://skillicons.dev)
 
 ## Connect
 <div>
