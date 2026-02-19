@@ -107,8 +107,7 @@ Repo: https://github.com/UTDallasEPICS/the-samaritan-inn
 
 ## GitHub stats
 <div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jashan-tech&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jashan-tech&layout=compact" />
+  [![Jashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jashan-tech)](https://github.com/Jashan-tech/github-readme-stats)
 </div>
 
 
